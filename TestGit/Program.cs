@@ -6,10 +6,10 @@ namespace TestGit
     {
         static void Main(string[] args)
         {
-            
 
+            string b = "bag";
             string s = "abc";
-            Console.WriteLine(s);
+            Console.WriteLine(s+b);
         }
     }
 }
