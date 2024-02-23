@@ -10,6 +10,7 @@ namespace TestGit
             string b = "TEST";
             string s = "GITHUB";
             Console.WriteLine(s+b+" en miniscule est: " +(s+b).ToLower());
+
         }
     }
 }
