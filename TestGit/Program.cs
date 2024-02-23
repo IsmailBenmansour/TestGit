@@ -7,9 +7,9 @@ namespace TestGit
         static void Main(string[] args)
         {
 
-            string b = "bag";
-            string s = "abc";
-            Console.WriteLine(s+b);
+            string b = "TEST";
+            string s = "GITHUB";
+            Console.WriteLine(s+b+" en miniscule est: " +(s+b).ToLower());
         }
     }
 }
